@@ -8,6 +8,9 @@
 [submodule "laOpenData"]
 	path = laOpenData
 	url = https://github.com/martinezc1/laopendata
+[submodule "mtaOpenData"]
+	path = mtaOpenData
+	url = https://github.com/martinezc1/mtaopendata
 [submodule "nysOpenData"]
 	path = nysOpenData
 	url = https://github.com/martinezc1/nysopendata
