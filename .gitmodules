@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ausOpenData"]
+	path = ausOpenData
+	url = https://github.com/martinezc1/ausopendata
 [submodule "chiOpenData"]
 	path = chiOpenData
 	url = https://github.com/martinezc1/chiopendata
