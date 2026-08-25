@@ -14,6 +14,9 @@
 [submodule "mtaOpenData"]
 	path = mtaOpenData
 	url = https://github.com/martinezc1/mtaopendata
+[submodule "nysOpenData"]
+	path = nysOpenData
+	url = https://github.com/martinezc1/nysopendata
 [submodule "reproresearchR"]
 	path = reproresearchR
 	url = https://github.com/martinezc1/reproresearchr
