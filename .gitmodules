@@ -8,6 +8,9 @@
 [submodule "chiOpenData"]
 	path = chiOpenData
 	url = https://github.com/martinezc1/chiopendata
+[submodule "deOpenData"]
+	path = deOpenData
+	url = https://github.com/cran/deOpenData
 [submodule "laOpenData"]
 	path = laOpenData
 	url = https://github.com/martinezc1/laopendata
