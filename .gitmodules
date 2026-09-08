@@ -5,21 +5,9 @@
 [submodule "ausOpenData"]
 	path = ausOpenData
 	url = https://github.com/martinezc1/ausopendata
-[submodule "chiOpenData"]
-	path = chiOpenData
-	url = https://github.com/martinezc1/chiopendata
 [submodule "deOpenData"]
 	path = deOpenData
 	url = https://github.com/cran/deOpenData
-[submodule "laOpenData"]
-	path = laOpenData
-	url = https://github.com/martinezc1/laopendata
-[submodule "mtaOpenData"]
-	path = mtaOpenData
-	url = https://github.com/martinezc1/mtaopendata
-[submodule "nysOpenData"]
-	path = nysOpenData
-	url = https://github.com/martinezc1/nysopendata
 [submodule "reproresearchR"]
 	path = reproresearchR
 	url = https://github.com/martinezc1/reproresearchr
